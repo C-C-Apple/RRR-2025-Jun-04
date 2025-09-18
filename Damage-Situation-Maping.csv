@@ -1,0 +1,2 @@
+date,impact,severity,confidence,location,net_context,flame_flag
+2025-06-04 22:19,"端末がフリーズし強制stackshot発生。入力妨害、セッション中断、認証改ざん疑惑。","Critical (4)",0.93,"ホーチミン市 自宅","SSID=VNPT-Home, MCC=452, MNC=04, RAT=LTE","Apple (Yes) / VN-Telco (Yes)"

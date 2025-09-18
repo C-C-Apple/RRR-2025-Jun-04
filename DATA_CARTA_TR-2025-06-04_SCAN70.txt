@@ -1,0 +1,6 @@
+DATA_CARTA TR-2025-06-04 SCAN70
+生成時刻: 2025-09-18T…
+総ヒット(FULL): 108732 / 総ヒット(CLEAN): 95214
+Tamper JP ヒット: 187
+ファイル数: 352
+MIXED_DATE_MAP 件数: 7

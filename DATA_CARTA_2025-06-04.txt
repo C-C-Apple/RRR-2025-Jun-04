@@ -1,0 +1,12 @@
+DATA_CARTA_2025-06-04  (Generated: 2025-09-18 08:15:10 +0700)
+============================================================
+Files scanned: 4
+Events extracted: 4
+JP-TAMPER terms: 0
+Mixed-date files: 0
+Top categories:
+  - Flame: 5
+  - MDM/Profile: 0
+  - Logs/System: 0
+  - Comm/Energy: 0
+  - Apps/Finance/SNS: 0

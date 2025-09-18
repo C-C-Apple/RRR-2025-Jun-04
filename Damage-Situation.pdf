@@ -1,0 +1,15 @@
+Template-3 被害記録エントリ (2025-06-04)
+
+・date_utc7: 2025-06-04 22:19
+・device: iPhone 11 Pro (iPhone12,3)
+・event_type: 強制stackshot（bug_type 288）
+・event_detail: RTBuddyService / AppleSPU 同時稼働、Unicode改ざん痕跡あり
+・impact: 端末がフリーズし強制stackshot発生。入力妨害、セッション中断、認証改ざん疑惑。
+・severity: Critical (4) / confidence: 0.93
+・location: ホーチミン市 自宅 / net_context: SSID=VNPT-Home, MCC=452, MNC=04, RAT=LTE
+・tamper_suspect: 187件（Unicode「認証」「設定」「監視」）
+・mixed_date_hits: 7件
+・top_keywords: RTCR=521, triald=417, JetsamEvent=392, 認証=187, Viettel=143
+・custody: sha256(bug_type288原本) / sha256(EVENTS_FULL解析CSV)
+・notes: 主体性ZIP part1/2/3にて一括走査。Tamper・日付混在を検出済。
+・flame_flag: Apple (Yes) / VN-Telco (Yes)

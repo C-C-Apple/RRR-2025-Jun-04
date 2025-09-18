@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp_local":"2025-06-04 22:19:05.00 +0700",
+    "bug_type":"288",
+    "incident_id":"E61B134D-44D3-4FD6-BC7B-350FB3A8D774",
+    "os_version":"iPhone OS 18.5 (22F76)",
+    "product":null,
+    "reason":null,
+    "roots_installed":0,
+    "frontmostPids":null,
+    "thread_names":[
+
+    ],
+    "source_file":"bug_type_288-2025_0604_221905.docx"
+  },
+  {
+    "timestamp_local":"2025-06-04 22:19:05.00 +0700",
+    "bug_type":"288",
+    "incident_id":"E61B134D-44D3-4FD6-BC7B-350FB3A8D774",
+    "os_version":"iPhone OS 18.5 (22F76)",
+    "product":null,
+    "reason":null,
+    "roots_installed":0,
+    "frontmostPids":null,
+    "thread_names":[
+
+    ],
+    "source_file":"Text-06- bug-type-288-2025-0604-221905.docx"
+  }
+]
